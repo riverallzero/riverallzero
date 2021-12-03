@@ -1,4 +1,5 @@
-### Hi there 👋 I'm DaYoung
-Contact: kallzero1008@jbnu.ac.kr
+### Hi there 👋 I'm DaYoung 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
 
 ![RIVERALLZERO's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIVERALLZERO&theme=vue&show_icons=true)
