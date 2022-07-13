@@ -1,4 +1,5 @@
-### Hi there 👋 I'm DaYoung. <br> Studying to become a Software Engineer(Back-End)
+### Hi there 👋 I'm DaYoung.
+#### Major : Precision Agriculture <br> Studying to become a Software Engineer(Back-End)
 
 
 #### Tools
