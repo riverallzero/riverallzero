@@ -6,7 +6,6 @@
 
 #### I Tools I
 ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-green?style=flat&logo=Java&logoColor=white)&ensp;
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-orange?style=flat&logo=CSS3&logoColor=white)&ensp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
