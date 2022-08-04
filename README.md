@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm DaYoung.
-#### Studying to become a Software Engineer(Back-End)
 
 #### I Projects I
 - [Lms Notion](https://github.com/RIVERALLZERO/LmsNotion) : LMS(전북대학교 수강 사이트)에서 놓치는 강의영상, 레포트, 퀴즈를 알려주는 알림 봇
