@@ -1,11 +1,16 @@
-### Hi there 👋 I'm DaYoung.
+<div align="center">
 
-#### I Projects I
-- [Lms Notion](https://github.com/RIVERALLZERO/LmsNotion) : LMS(전북대학교 수강 사이트)에서 놓치는 강의영상, 레포트, 퀴즈를 알려주는 알림 봇
+![header](https://capsule-render.vercel.app/api?type=waving&color=117&height=95&section=header&text=Hello,&ensp;I'm%20Dayoung👋&fontSize=40&fontColor=FFFFFF)
 
-#### I Tools I
-![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white)&ensp;
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-orange?style=flat&logo=CSS3&logoColor=white)&ensp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/-Jetbrains-blue?style=flat&logo=Jetbrains&logoColor=white)
+### I STUDYING I
+
+Precision Agriculture <br>
+Machine Learning (Crops Yield Prediction)
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=black"><img src="https://img.shields.io/badge/Jetbrains-white?style=for-the-badge&logo=Jetbrains&logoColor=black"><img src="https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikit-learn&logoColor=black"><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=117&height=75&section=footer)
+
+</div>
