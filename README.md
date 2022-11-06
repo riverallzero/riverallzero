@@ -4,8 +4,7 @@
 
 ### I STUDYING I
 
-Precision Agriculture <br>
-Machine Learning (Crops Yield Prediction)
+Data Science
 
 <br>
 
