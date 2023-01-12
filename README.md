@@ -1,8 +1,1 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=117&height=95&section=header&text=Hello,&ensp;I'm%20Dayoung👋&fontSize=40&fontColor=000000)
-
-<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=black"><img src="https://img.shields.io/badge/Jetbrains-white?style=for-the-badge&logo=Jetbrains&logoColor=black"><img src="https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikit-learn&logoColor=black"><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=117&height=75&section=footer)
-
-</div>
+### <samp>&gt; Hi there, I'm <a href="https://riverallzero.github.io/profile/" target="_blank">Dayoung</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
