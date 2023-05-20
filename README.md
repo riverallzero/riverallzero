@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there, I'm <a href="https://riverallzero.github.io/profile/" target="_blank">Dayoung</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-- 👨‍💻 More Infor. about Me [https://riverallzero.github.io/profile/](https://riverallzero.github.io/profile/)
+- 👨‍💻 More Infor. about Me [https://riverallzero.github.io](https://riverallzero.github.io)
 - 🆅 Velog [https://velog.io/@riverallzero](https://velog.io/@riverallzero)
 - 🅳 Dacon [https://dacon.io/myprofile/452547/home](https://dacon.io/myprofile/452547/home)
 #### <samp>| Languages and Tools |</samp>
