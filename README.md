@@ -2,6 +2,7 @@
 
 <code>🎓 Student: Jeonbuk National Univ. Junior</code><br>
 <code>👨‍💻 AboutMe: [https://riverallzero.github.io](https://riverallzero.github.io)</code><br>
+<code>📮 E-mail: kallzero1008@jbnu.ac.kr</code><br>
 <code>🆅 Velog: [@riverallzero](https://velog.io/@riverallzero)</code><br>
 <code>🅳 Dacon: [@riverallzero](https://dacon.io/myprofile/452547/home)</code><br>
 
