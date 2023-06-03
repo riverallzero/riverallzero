@@ -1,10 +1,9 @@
-### <samp>&gt; Hi there, I'm <a href="https://riverallzero.github.io/profile/" target="_blank">Dayoung</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://riverallzero.github.io" target="_blank">Dayoung / 다 영</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<code>🎓 Student: Jeonbuk National Univ. Junior</code><br>
-<code>👨‍💻 AboutMe: [https://riverallzero.github.io](https://riverallzero.github.io)</code><br>
-<code>📮 E-mail: kallzero1008@jbnu.ac.kr</code><br>
-<code>🆅 Velog: [@riverallzero](https://velog.io/@riverallzero)</code><br>
-<code>🅳 Dacon: [@riverallzero](https://dacon.io/myprofile/452547/home)</code><br>
+<samp>I am interested in MachineLearning and DeepLearning, but i haven't decided on a specific field yet.<br>
+So i am trying various areas.</samp>
 
-#### <samp>| Languages and Tools |</samp>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<code>🎓 Student : Jeonbuk National Univ. Junior</code><br>
+<code>📮 E-mail : [kallzero1008@jbnu.ac.kr](kallzero1008@jbnu.ac.kr)</code><br>
+<code>🆅 Velog : [@riverallzero](https://velog.io/@riverallzero)</code>
+<code>🅳 Dacon : [@riverallzero](https://dacon.io/myprofile/452547/home)</code>
