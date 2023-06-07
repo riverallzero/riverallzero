@@ -5,5 +5,4 @@ So i am trying various areas.</samp>
 
 <code>🎓 Student : Jeonbuk National Univ. Junior</code><br>
 <code>📮 E-mail : [kallzero1008@jbnu.ac.kr](kallzero1008@jbnu.ac.kr)</code><br>
-<code>🆅 Velog : [@riverallzero](https://velog.io/@riverallzero)</code>
 <code>🅳 Dacon : [@riverallzero](https://dacon.io/myprofile/452547/home)</code>
