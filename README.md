@@ -1,6 +1,8 @@
 ## 👩🏻‍💻 Dayoung Kang
 ### About
-- <code>🎓 Jeonbuk National Univ.</code> | computer science & digital agriculture
+- <code>🎓 Jeonbuk National Univ.</code>
+  - computer science
+  - digital agriculture
 
 ### Social
 - <code>🅴 [E-mail](mailto:kallzero1008@jbnu.ac.kr)</code>
