@@ -16,17 +16,20 @@ for idx, feed in enumerate(rss_feed['entries']):
 
 
 markdown_text = """## 👩🏻‍💻 Dayoung Kang
-### About
-- <code>🎓 Jeonbuk National University</code>
-  - computer science
-  - digital agriculture
+### | About
+**🎓 Jeonbuk National University** | computer science & digital agriculture
 
-### Social
-- <code>🅴 [E-mail](mailto:kallzero1008@jbnu.ac.kr)</code>
-- <code>🅻 [LinkedIn](https://www.linkedin.com/in/riverallzero/)</code>
-- <code>🆃 [Tistory](https://riverallzero.tistory.com/)</code>
+<a href="mailto:kallzero1008@jbnu.ac.kr">
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/riverallzero/">
+  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+</a>
+<a href="https://riverallzero.tistory.com/">
+  <img alt="tistory" src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white"/>
+</a>
 
-### Blog Post</h3>
+### | Blog Post</h3>
 
 
 
