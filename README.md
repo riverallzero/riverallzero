@@ -16,9 +16,9 @@
 
 
 
+[2024/1/17 - Week1-TUE.[Seshadri]Product commercialization and Business Modeling](https://riverallzero.tistory.com/44) <br>
+[2024/1/17 - Week1-TUE.[Kent]Critical Thinking Skills](https://riverallzero.tistory.com/43) <br>
+[2024/1/17 - Week1-MON.[Mash]Silicon Valley Innovation and Startup Ecosystem](https://riverallzero.tistory.com/42) <br>
 [2024/1/12 - [Azure]Computer Vision: OCR 이용해 이미지에서 텍스트 추출하기](https://riverallzero.tistory.com/41) <br>
 [2024/1/11 - Selenium: 웹브라우저가 로딩될때까지 기다리기](https://riverallzero.tistory.com/40) <br>
 [2024/1/11 - Selenium 설치하기 (window, mac)](https://riverallzero.tistory.com/39) <br>
-[2024/1/10 - AI를 이용해 음성 나레이션 만들기](https://riverallzero.tistory.com/38) <br>
-[2024/1/10 - Bard에 OCR을 결합해 이미지로 대화하기](https://riverallzero.tistory.com/37) <br>
-[2024/1/2 - Github: contributors 뱃지 README에 표시하기](https://riverallzero.tistory.com/36) <br>
