@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Dayoung Kang
 ### | About
-**🎓 Jeonbuk National University** | computer science & digital agriculture
+**🎓 Jeonbuk National University** | Computer Science & Digital Agriculture
 
 <a href="mailto:kallzero1008@jbnu.ac.kr">
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
