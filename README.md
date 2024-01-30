@@ -16,9 +16,9 @@
 
 
 
+[2024/1/30 - C01-2.함수 오버로딩(Function Overloading)](https://riverallzero.tistory.com/48) <br>
+[2024/1/30 - C01-1.printf와 scanf를 대신하는 입출력 방식](https://riverallzero.tistory.com/47) <br>
 [2024/1/25 - [Kent]Entrepreneurship in Silicon Valley](https://riverallzero.tistory.com/46) <br>
 [2024/1/23 - [Steve]Financial Panning](https://riverallzero.tistory.com/45) <br>
 [2024/1/17 - [Seshadri]Product commercialization and Business Modeling](https://riverallzero.tistory.com/44) <br>
 [2024/1/17 - [Kent]Critical Thinking Skills](https://riverallzero.tistory.com/43) <br>
-[2024/1/17 - [Mash]Silicon Valley Innovation and Startup Ecosystem](https://riverallzero.tistory.com/42) <br>
-[2024/1/12 - [Azure]Computer Vision: OCR 이용해 이미지에서 텍스트 추출하기](https://riverallzero.tistory.com/41) <br>
