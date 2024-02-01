@@ -16,9 +16,9 @@
 
 
 
+[2024/2/1 - [백준]단계별로 풀어보기-1.입출력과 사칙연산](https://riverallzero.tistory.com/58) <br>
 [2024/2/1 - C02-4.참조자(Reference)와 함수](https://riverallzero.tistory.com/57) <br>
 [2024/2/1 - C02-3.참조자(Reference)의 이해](https://riverallzero.tistory.com/56) <br>
 [2024/2/1 - C02-2.새로운 자료형 bool](https://riverallzero.tistory.com/55) <br>
 [2024/2/1 - C02-1.프로그램의 메모리 공간](https://riverallzero.tistory.com/54) <br>
 [2024/1/31 - 포인터란(pointer)?](https://riverallzero.tistory.com/53) <br>
-[2024/1/31 - C++ 키워드 정리](https://riverallzero.tistory.com/52) <br>
