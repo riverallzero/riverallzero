@@ -19,10 +19,7 @@ markdown_text = """## 👩🏻‍💻 Dayoung Kang
 ### | About
 **🎓 Jeonbuk National University** | Computer Science & Digital Agriculture
 
-#### social
-- [E-Mail](mailto:kallzero1008@jbnu.ac.kr)
-- [LinkedIn](https://www.linkedin.com/in/riverallzero/)
-- [Tistory](https://riverallzero.tistory.com/)
+- **SOCIAL** | [E-Mail](mailto:kallzero1008@jbnu.ac.kr) | [LinkedIn](https://www.linkedin.com/in/riverallzero/) | [Tistory](https://riverallzero.tistory.com/)
 
 ### | Blog Post</h3>
 
