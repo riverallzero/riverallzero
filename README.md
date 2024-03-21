@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Dayoung Kang
+## Dayoung Kang(강 다 영)
 ### | About
 **🎓 Jeonbuk National University** | Computer Science & Digital Agriculture
 
