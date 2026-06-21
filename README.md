@@ -3,7 +3,7 @@
 - Turning models into useful tools for real-world problems
 
 ### Research Interestes
-Multimodal Learning · Agentic AI
+Multimodal Learning · Agentic AI · Active Learning
 
 ### Publications
 - AROMMA: Unifying Olfactory Embeddings for Single Molecules and Mixtures (*IEEE ICASSP 2026*)
