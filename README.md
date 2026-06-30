@@ -11,3 +11,5 @@ Multimodal Learning · Agentic AI · Active Learning
 📚 Scholar: https://scholar.google.com/citations?user=UX_2oycAAAAJ&hl <br>
 🌐 Website: https://riverallzero.github.io/ <br>
 ✍️ Blog: https://sunnyretriever.tistory.com/
+
+🛠️ Environment: Linux, Docker, Singularity (HPC)
