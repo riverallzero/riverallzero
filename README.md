@@ -3,7 +3,7 @@
 - Turning models into useful tools for real-world problems
 
 ### Research Interestes
-Multimodal Learning · Agentic AI · Knowledge Transfer · AI4Science · On-Device AI
+Multimodal AI · Knowledge Transfer · AI4Science
 
 ### Publications
 - AROMMA: Unifying Olfactory Embeddings for Single Molecules and Mixtures (*IEEE ICASSP 2026*)
